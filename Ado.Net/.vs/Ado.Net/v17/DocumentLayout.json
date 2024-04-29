@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE87A9C-EFFA-437D-BD94-780F51A2078A}|Data\\Data.csproj|c:\\users\\asus\\desktop\\taskadonet\\ado.net\\data\\concretes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE87A9C-EFFA-437D-BD94-780F51A2078A}|Data\\Data.csproj|solutionrelative:data\\concretes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1556DEEC-C848-4F20-BC43-27C5D99B8935}|Ado.Net\\Ado.Net.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\ado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1556DEEC-C848-4F20-BC43-27C5D99B8935}|Ado.Net\\Ado.Net.csproj|solutionrelative:ado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1556DEEC-C848-4F20-BC43-27C5D99B8935}|Ado.Net\\Ado.Net.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\ado.net\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1556DEEC-C848-4F20-BC43-27C5D99B8935}|Ado.Net\\Ado.Net.csproj|solutionrelative:ado.net\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE0202-10D5-4281-AB05-030244051C8B}|Business\\Business.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\business\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE0202-10D5-4281-AB05-030244051C8B}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE0202-10D5-4281-AB05-030244051C8B}|Business\\Business.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\business\\services\\abstracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE0202-10D5-4281-AB05-030244051C8B}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE87A9C-EFFA-437D-BD94-780F51A2078A}|Data\\Data.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE87A9C-EFFA-437D-BD94-780F51A2078A}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC63DB5-DD3B-43A4-9C17-7DFCA0276DE7}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\core\\abstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC63DB5-DD3B-43A4-9C17-7DFCA0276DE7}|Core\\Core.csproj|solutionrelative:core\\abstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC63DB5-DD3B-43A4-9C17-7DFCA0276DE7}|Core\\Core.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC63DB5-DD3B-43A4-9C17-7DFCA0276DE7}|Core\\Core.csproj|solutionrelative:core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE87A9C-EFFA-437D-BD94-780F51A2078A}|Data\\Data.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAE87A9C-EFFA-437D-BD94-780F51A2078A}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1556DEEC-C848-4F20-BC43-27C5D99B8935}|Ado.Net\\Ado.Net.csproj|C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\ado.net\\ado.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1556DEEC-C848-4F20-BC43-27C5D99B8935}|Ado.Net\\Ado.Net.csproj|solutionrelative:ado.net\\ado.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Ado.Net\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Ado.Net\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Ado.Net\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Ado.Net\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:40:01.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ado.Net",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Ado.Net\\Ado.Net.csproj",
+              "RelativeDocumentMoniker": "Ado.Net\\Ado.Net.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Ado.Net\\Ado.Net.csproj",
+              "RelativeToolTip": "Ado.Net\\Ado.Net.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T19:30:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T18:48:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:49:07.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Business\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Business\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\EmployeeService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:47:58.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Data\\Concretes\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Concretes\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Data\\Concretes\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\Concretes\\EmployeeRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwDkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:46:22.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:45:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Core\\Abstracts\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Abstracts\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Core\\Abstracts\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Core\\Abstracts\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:44:32.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Core\\Models\\Employee.cs",
+              "RelativeToolTip": "Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:40:52.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Ado.Net\\Program.cs",
+              "RelativeDocumentMoniker": "Ado.Net\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TaskAdoNet\\Ado.Net\\Ado.Net\\Program.cs",
+              "RelativeToolTip": "Ado.Net\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv0MAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:23:03.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
